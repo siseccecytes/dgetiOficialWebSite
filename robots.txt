@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://siseccecytes.github.io/dgetiOficialWebSite/sitemap.xml
