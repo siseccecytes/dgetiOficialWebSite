@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "DGETI",
     "description": "",
-    "home_page_url": "https://github.com/siseccecytes/dgetiOficialWebSite",
-    "feed_url": "https://github.com/siseccecytes/dgetiOficialWebSite/feed.json",
+    "home_page_url": "https://siseccecytes.github.io/dgetiOficialWebSite",
+    "feed_url": "https://siseccecytes.github.io/dgetiOficialWebSite/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/siseccecytes/dgetiOficialWebSite/media/website/images.png",
+    "icon": "https://siseccecytes.github.io/dgetiOficialWebSite/media/website/images.png",
     "author": {
         "name": "Direccion General de Educación Tecnológica Industrial y de Servicios"
     },
